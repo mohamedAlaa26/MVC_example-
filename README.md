@@ -1,2 +1,2 @@
 # MVC_example-
-design pattern 
+compound design pattern 
